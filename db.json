@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "title": "quet nha",
+      "content": "quet cho sach ",
+      "status": 1,
+      "id": "1"
+    },
+    {
+      "title": "quet nha",
+      "content": "quet cho sach ",
+      "status": 0,
+      "id": "99a0"
+    },
+    {
+      "title": "rửa bát",
+      "content": "rửa ",
+      "status": 0,
+      "id": "5ca6"
+    }
+  ]
+}
